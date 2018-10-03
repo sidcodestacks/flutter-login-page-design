@@ -1,0 +1,4 @@
+#Wed Oct 03 16:55:48 IST 2018
+base.0=/Users/siddharth/Downloads/flutter_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
